@@ -1,0 +1,30 @@
+.form-main{
+    background-color: beige;
+    width: 40%;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px 10px;
+    
+}
+#heading{
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form-contents {
+    display: block;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+}
+
+#textarea-td{
+    width: 100%;
+}
+textarea{
+    width: 100%;
+   
+}
+
+.name-input {
+    width: 230px;
+}

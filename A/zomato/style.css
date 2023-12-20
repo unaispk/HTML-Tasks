@@ -1,0 +1,21 @@
+.nav-logo img {
+    width: 128px;
+    height: 27px;
+    margin-left: 30px;
+}
+
+.SearchRestuarent {
+    display: flex;
+    align-items: center;
+    height: 4.4rem;
+    width: 700px;
+    background: rgb(255, 255, 255);
+    border-radius: 0.8rem;
+    box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+    border: 1px solid rgb(232, 232, 232);
+
+    margin-left: 160px;
+}
+.SearchRestuarent input {
+    border: none;
+}

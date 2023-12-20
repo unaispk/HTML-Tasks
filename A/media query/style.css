@@ -1,0 +1,11 @@
+.section {
+    width: 500px;
+    height: 500px;
+    background-color: darkcyan;
+}
+
+@media screen and (min-width:400px) {
+    .section {
+        background-color: green;
+    }
+}

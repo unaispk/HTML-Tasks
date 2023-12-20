@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #e4f3f7;
+  width: 432px;
+  height: 540px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+#heading {
+  margin-left: 5px;
+  margin-top: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#easy {
+  margin-left: 5px;
+  margin-top: -14px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.names {
+  width: 150px;
+  padding: 11px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  margin: 10px -52px 10px 0px;
+}
+
+.phone-password {
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 8px;
+  padding: 10px 0px 8px 4px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  margin: 10px 0px 10px 8px;
+}
+#dob-txt {
+  color: #606770;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 20px;
+  margin-bottom: 0;
+  margin-top: 2px;
+}
+
+.DOB {
+  padding: 8px 20px 8px 20px;
+  margin-left: 0px 0px 0px 5px;
+  border-radius: 5px;
+}
+.DOB-BOX {
+  display: flex;
+  justify-content: space-between;
+  margin: 2px 0px 0px 20px;
+}
+.Gender-Container {
+  display: flex;
+  justify-content: space-between;
+  margin: 2px 0px 0px 20px;
+}
+.Gender {
+  width: 80px;
+  height: 22px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  margin: 0px 0px 0px 5px;
+  background-color: #fff;
+  padding: 5px 5px 5px 5px;
+}
+.Learn-more {
+  margin-top: 15px;
+}
+.signup-btn {
+  height: 36px;
+  padding: 0 32px;
+  display: block;
+  background: none;
+  background-color: #00a400;
+  border: none;
+  border-radius: 6px;
+  box-shadow: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 32px 0px 0px 135px;
+}
+table {
+  width: 408px;
+}
+#name-inputs {
+  padding-left: 8px;
+}
